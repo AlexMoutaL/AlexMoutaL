@@ -20,7 +20,7 @@
 <div> 
    <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-  <a href="[https://www.linkedin.com/in/ricardohdias](https://www.linkedin.com/in/brena-mouta-lamar%C3%A3o-b545091a2)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="(https://www.linkedin.com/in/%C3%A1lex-mouta-lamar%C3%A3o-qa-junior-tester?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bds8nwcDJSG2RhPAwb64Tlw%3D%3D)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
 </div>
